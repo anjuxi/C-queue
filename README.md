@@ -199,7 +199,7 @@ A few implementation notes:
 
 ## Contact
 
-**Dr. Ailan Anjuxi (谙弆悕)**
+**Ailan Anjuxi (谙弆悕博士)**
 
 - 📫 Email: anjuxi.ME@outlook.com
 - 📞 SIP: sip:anjuxi@sip.linphone.org
